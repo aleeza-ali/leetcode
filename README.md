@@ -1,3 +1,3 @@
-# 🎯 LeetCode Problems
+# LeetCode Problems
 
-A collection of my LeetCode solutions as I work through coding challenges!
+A collection of my LeetCode solutions as I work through challenges!
